@@ -3,4 +3,6 @@
 Это пример репозитория.
 Этот репозиторий развивается нами шаг за шагом.
 ИЛЬЯ ВЕБЖАБА
-I wake up ina new BUGATTY
+I wake up ina new 
+csadps
+sus
